@@ -41,10 +41,7 @@ const BookModal = ({ book, onClose }) => {
                     corporis and occaecat. Laboriosam eius but irure, velit. Perspiciatis
                     dicta for iste and ipsa for ipsa nesciunt yet sit. Eum eos, laudantium
                     so dicta illo or magnam. Autem anim. Anim numquam elit veritatis or
-                    rem dolor modi. Aliquip explicabo. Culpa excepteur dicta. Ullam. Anim
-                    adipisci. Natus numquam for deserunt and iure, proident and quisquam
-                    or iste.
-                </p>
+                    rem dolor modi. Aliquip explicabo. Culpa excepteur dicta.</p>
             </div>
         </div>
     );
